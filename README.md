@@ -6,5 +6,15 @@
 
 <h1>⚒️Languagues and Tools<h1>
   <ul class="code">
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"></i>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
+    <img src="" width="30" height="30">
   </ul>
