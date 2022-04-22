@@ -1,6 +1,10 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/94035223/164618383-0e02d883-51cb-47a5-8cf4-872c6b8d5be4.gif"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/94035223/164618715-a455f7cb-b444-49bc-9e5f-8d8cc552414d.gif" width="full"></div>
+
 <p>👋I am Aaron, enthusiatic full stack developer.</p>
 </p>👷‍♂️Currently working on full stack Web development projects.</p>
 </p>😎How to reach me : 📞+91 9698154197  ✉️aaronreaiah61J@gmail.com</p>
 
-</p><b>⚒️Languau=gue and Tools<b></p>
+<h1>⚒️Languau=gue and Tools<h1>
+  <ul class="code">
+    <li><img src="">
+  </ul>
