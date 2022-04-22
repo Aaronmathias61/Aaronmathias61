@@ -2,10 +2,11 @@
 
 <h3><p>👋I am Aaron, enthusiatic full stack developer.</p>
 </p>👷‍♂️Currently working on full stack Web development projects.</p>
-</p>😎How to reach me : 📞+91 9698154197  ✉️aaronreaiah61J@gmail.com</p></h3>
+</p>😎How to reach me : 📞+91 9698154197  ✉️<a>aaronreaiah61J@gmail.com</a></p></h3>
 
 <h1>⚒️Languagues and Tools<h1>
   <ul class="code">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
