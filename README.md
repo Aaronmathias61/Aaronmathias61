@@ -4,7 +4,12 @@
 </p>👷‍♂️Currently working on full stack Web development projects.</p>
 </p>😎How to reach me : 📞+91 9698154197  ✉️aaronreaiah61J@gmail.com</p>
 
-<h1>⚒️Languau=gue and Tools<h1>
+<h1>⚒️Languagues and Tools<h1>
   <ul class="code">
-    <li><img src="">
+    <li><i class="fab fa-html5"></i>
+    <li><i class="fab fa-css3-alt"></i></li>
+    <li><i class="fab fa-bootstrap"></i></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
