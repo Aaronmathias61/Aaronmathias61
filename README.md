@@ -6,10 +6,5 @@
 
 <h1>⚒️Languagues and Tools<h1>
   <ul class="code">
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></i>
-    <li><i class="fab fa-css3-alt"></i></li>
-    <li><i class="fab fa-bootstrap"></i></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"></i>
   </ul>
