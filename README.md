@@ -2,7 +2,7 @@
 
 <h3><p>👋I am Aaron, enthusiatic full stack developer.</p>
 </p>👷‍♂️Currently working on full stack Web development projects.</p>
-</p>😎How to reach me : 📞+91 9698154197  ✉️<a>aaronreaiah61J@gmail.com</a></p></h3>
+</p>😎How to reach me : 📞+91 7868051895  ✉️<a>jaaronreaiah61@gmail.com</a></p></h3>
 
 <h1>⚒️Languagues and Tools<h1>
   <ul class="code">
