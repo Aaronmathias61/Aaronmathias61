@@ -7,7 +7,6 @@
 
 <h1>⚒️Languagues and Tools<h1>
   <ul class="code">
-<!--     <a href="https://reactjs.org/" target="_blank"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" name="react" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
@@ -16,5 +15,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
-      
   </ul>
