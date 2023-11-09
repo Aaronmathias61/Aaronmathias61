@@ -14,9 +14,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"> -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30" height="30"> -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="30" height="30">
        
