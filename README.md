@@ -3,7 +3,7 @@
 </div>
 
 <h3><p>👋I am Aaron, enthusiatic Java SpringBoot developer.</p>
-<p>Working on Fleet Management Tracking Project</p>
+<p>Working on Fleet Management Tracking Project 🚒</p>
 <p>Skilled in Java Spring Boot interested in integrating devices and creating Mobile and web apps.</p>
 </p>😎How to reach me : 📞+91 7868051895  ✉️<a> jaaronreaiah61@gmail.com</a></p></h3>
 
@@ -12,17 +12,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" name="react" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"> -->
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30" height="30"> -->
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="30" height="30">
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="30" height="30">
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="30" height="30">
     
        
   </ul>
-
-
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" width="100" height="30">
