@@ -7,7 +7,7 @@
 <h4>
 <p>&emsp; Fleet Management  🚒</p>
 <p>&emsp; E-commerce  🚒</p>
-<p>&emsp;Healthcare Management 🚒</p>
+<p>&emsp; Healthcare Management 🚒</p>
 <p>Skilled in Java Spring Boot interested in integrating devices and creating Mobile and web apps.</p>
 </p>😎How to reach me : 📞+91 7868051895  ✉️<a> jaaronreaiah61@gmail.com</a></p></h4>
 
