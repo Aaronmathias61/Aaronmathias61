@@ -5,13 +5,13 @@
 <h2><p>👋I am Aaron, enthusiatic Java SpringBoot developer.</p></h2>
 <h3><p>Projects</p></h3>
 <h4>
-<p></t> Fleet Management  🚒</p>
-<p></t> E-commerce  🚒</p>
-<p></t>Healthcare Management 🚒</p>
+<p>&emsp; Fleet Management  🚒</p>
+<p>&emsp; E-commerce  🚒</p>
+<p>&emsp;Healthcare Management 🚒</p>
 <p>Skilled in Java Spring Boot interested in integrating devices and creating Mobile and web apps.</p>
 </p>😎How to reach me : 📞+91 7868051895  ✉️<a> jaaronreaiah61@gmail.com</a></p></h4>
 
-<h1>⚒️Languagues and Tools<h1>
+<h3>⚒️Languagues and Tools<h3>
   <ul>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" name="react" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30">
