@@ -17,12 +17,22 @@ my expertise and grow professionally.</p>
 
 <h3>⚒️Languagues and Tools<h3>
   <ul>
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" name="react" width="30" height="30"> -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" name="react" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="30" height="30">     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" width="30" height="30"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"> 
+    
+    
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30" height="30"> -->
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"> -->
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"> -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
-    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="30" height="30">     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="30" height="30"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="30" height="30"> 
+
   </ul>
